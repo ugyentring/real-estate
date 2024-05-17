@@ -1,1 +1,1 @@
-# React Real Estate UI Design
+# This is a fullstack real estate app
