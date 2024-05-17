@@ -2,4 +2,4 @@
 
 # Technologies used
 React
-Scss
+Sass
